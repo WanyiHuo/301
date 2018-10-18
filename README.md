@@ -4,6 +4,6 @@ In this project, we were given two data sets: flights and weather2. The first da
 Anaconda
 Jupyter Notebook
 # Installing
-https://www.anaconda.com/download/#macos (for installing Anaconda)
-http://jupyter.org/install (for installing Jupyter Notebook)
+https://www.anaconda.com/download/#macos (for installing Anaconda)\\
+http://jupyter.org/install (for installing Jupyter Notebook)\\
 # Contributing
