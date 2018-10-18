@@ -7,4 +7,9 @@ Jupyter Notebook
 https://www.anaconda.com/download/#macos (for installing Anaconda)<br>
 http://jupyter.org/install (for installing Jupyter Notebook)<br>
 # Contributing
+When contributing to this repository, the change I wish to make via email.<br>
 huo_h1@denison.edu
+# Authors
+Wanyi Huo
+# License
+This project is licensed under the MIT License 
