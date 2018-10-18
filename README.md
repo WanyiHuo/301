@@ -10,6 +10,10 @@ http://jupyter.org/install (for installing Jupyter Notebook)<br>
 When contributing to this repository, the change I wish to make via email.<br>
 huo_h1@denison.edu
 # Authors
-Wanyi Huo
+Wanyi Huo<br>
+Jing Sun
 # License
-This project is licensed under the MIT License 
+This project is licensed under the Apache-2.0 License 
+# Acknowledgement
+Thanks for the help from my CS181 professor Dr. Bressoud and the coorperation of my partner Jing Sun.
+
